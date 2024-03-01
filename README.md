@@ -43,7 +43,8 @@ Can be found in the publication, will be linked to the dataset once published on
 
 - **This dataset contains the following files:**
   - **12** file (Excel file with the entire dataset)
-  - **Metadata** file (Excel file with explanations of all microorganism and variables)
+  - **Metadata** file (Excel file with explanations of all samples and variables)
+  - **Stats_Data** file (Excel file with statistical data used for the description of the manuscript)
   - Code file **Qual_stats.ipynb** includes the statistical analyses conducted in the quality and bioactive analyses shown in the manuscript
   - Code file **Oil_qual_visual.ipynb** includes the code used for vizualitaion conducted in the quality and bioactive analyses shown in the manuscript
   - Code file **Volatile differences arb, Volatile differences cob and Volatile_all.R** includes the analyses conducted in the volatile section of the manuscript
