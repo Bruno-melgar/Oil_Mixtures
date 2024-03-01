@@ -1,3 +1,7 @@
+![Time 0 vs Time](https://github.com/Bruno-melgar/Oil_Mixtures/assets/57594798/658bb652-2e99-466e-99f2-38ff31a4ae02)
+
+
+---
 ### Document:
 - **Title of the dataset:** Oil_mixtures
 - **Data underlying publication:** <br/>
