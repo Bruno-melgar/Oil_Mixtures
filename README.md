@@ -1,7 +1,3 @@
-![Time 0 vs Time](https://github.com/Bruno-melgar/Oil_Mixtures/assets/57594798/658bb652-2e99-466e-99f2-38ff31a4ae02)
-
-
----
 ### Document:
 - **Title of the dataset:** Oil_mixtures
 - **Data underlying publication:** <br/>
@@ -55,3 +51,7 @@ Can be found in the publication, will be linked to the dataset once published on
 
 *This dataset is published under the CC BY (Attribution) license.
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator.*
+
+---
+![Time 0 vs Time](https://github.com/Bruno-melgar/Oil_Mixtures/assets/57594798/658bb652-2e99-466e-99f2-38ff31a4ae02)
+
